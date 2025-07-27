@@ -1,4 +1,4 @@
-# Portfolio Volatility Prediction
+# Volatility Forecasting for Equity Portfolio: From GARCH(1,1) to DCC-GARCH
 
 This project aims to analyze and predict the volatility of a diversified stock portfolio using historical price data from different industries in the S&P 500. 
 It involves time series analysis, portfolio construction, and model-based volatility forecasting.
